@@ -4,7 +4,7 @@ I'm a frontend developer. My goal is to create high-quality and convenient web a
 
 ## 🔧 My tech stack:
 
-- **Frontend:** React, Redux Toolkit, Material-UI
+- **Frontend:** React, React Route V7, Redux Toolkit, Material-UI (MUI), Tailwind
 - **API:** REST, GraphQL
 - **Tools:** VS Code, GitHub, Strapi, Postman
 
