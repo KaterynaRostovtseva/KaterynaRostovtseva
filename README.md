@@ -1,6 +1,7 @@
 # Hi! I'm Katya!👋
 
 I'm a frontend developer. My goal is to create high-quality and convenient web applications. I love solving interesting problems and learning new things.
+My portfolio: https://portfolio-git-main-katerynas-projects-a1fb972e.vercel.app/
 
 ## 🔧 My tech stack:
 
