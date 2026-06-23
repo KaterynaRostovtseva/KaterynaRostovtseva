@@ -1,40 +1,40 @@
-# Hi! I'm Katya!👋
+# Hi! I'm Katya! 👋
+### Junior Frontend Developer | React | Next.js | Angular
 
-I'm a frontend developer. My goal is to create high-quality and convenient web applications. I love solving interesting problems and learning new things.
-My portfolio: 
-https://portfolio-kateryna.vercel.app/
+My goal is to build high-quality, scalable, and user-friendly web applications. I love solving complex architectural challenges, optimizing performance, and continuously expanding my tech stack.
 
-## 🔧 My tech stack:
+🌐 **My Portfolio:** [https://portfolio-kateryna.vercel.app/]
+💻 **GitHub:** [https://github.com/KaterynaRostovtseva]
+👔 **LinkedIn:** [https://www.linkedin.com/in/kateryna-rostovtseva-123a58171/]
 
-- **Frontend:** React, React Route V7, Redux Toolkit, Material-UI (MUI), Tailwind
-- **API:** REST, GraphQL
-- **Tools:** VS Code, GitHub, Strapi, Postman
+---
 
-## 💼 Work experience
+### 🔧 Technical Toolkit
 
-I've worked on several projects, including:
-- Developing interfaces using **React** and **Material-UI**.
-- State management using **Redux Toolkit**.
-- Integrating with REST API and using **Axios, Fetch** for asynchronous requests.
-- Creating adaptive and interactive interfaces.
+* **Frontend & Frameworks:** React, Next.js, React Router, TypeScript, JavaScript (ES6+), HTML5, CSS3
+* **Architecture:** Feature-Sliced Design (FSD), Modular Project Structure
+* **State Management & Fetching:** Redux Toolkit, RTK Query
+* **UI & Styling:** Tailwind CSS (v4), Material-UI (MUI), Responsive Web Design
+* **API Integration:** REST API, Axios, Swagger, Postman
+* **Tools & DevOps:** Git, GitHub Organizations, CI/CD (Vercel CLI & Token Automation, GitHub Actions), VS Code
+* **CMS:** Strapi, Contentful
 
-## 📈 My achievements
+---
 
-- Completed the project from scratch, implementing registration and authorization functionality.
-- Implemented error handling and form validation to improve user experience.
-- Implemented drag and drop functionality using the react-beautiful-dnd library.
-- Implemented efficient image handling (uploading, cropping, and displaying) to improve work with multimedia data.
-- Worked with the team to create a project management platform using GitHub for collaboration.
+### 📈 Key Engineering Achievements & Experience
 
-- Experience with React Router, Redux and other libraries.
+* **Production-Ready Architecture:** Successfully built and structured applications from scratch using **Feature-Sliced Design (FSD)**, ensuring a clean, modular, and maintainable codebase.
+* **Advanced State & Data Optimization:** Implemented efficient data fetching, caching, and state synchronization using **RTK Query** and **Redux Toolkit** to ensure instant UI responsiveness.
+* **Teamwork & DevOps Pipelines:** Experienced in team collaboration environments. Managed source code within professional **GitHub Organizations** and set up automated token-based **CI/CD pipelines** for seamless deployment directly to Vercel.
+* **Complex Feature Delivery:** Developed full authentication/authorization flows, implemented Role-Based Access Control (RBAC), engineered fluid drag-and-drop mechanics (`react-beautiful-dnd`), and established efficient multi-step reactive forms with robust client-side validation.
+* **Multimedia & API Mocking:** Integrated advanced multimedia processing (image uploading and cropping) and utilized **MSW (Mock Service Worker)** for seamless API mocking to support offline application maintenance.
 
-## 📚 What I'm learning now
+---
 
-- **Angular** is a framework for developing dynamic and scalable web applications.
-- **TypeScript** is for stricter type control.
+### 📚 Professional Growth & What I'm Mastering Now
 
-## 📬 How to contact
+* **Angular Ecosystem:** Deeply diving into Angular to build enterprise-grade scalable web applications, focusing on modern features like **Angular Signals** for granular reactivity and **Angular Material** for layout styling.
 
-- [My LinkedIn](https://www.linkedin.com/in/kateryna-rostovtseva-123a58171/)
-- [My GitHub](https://github.com/KaterynaRostovtseva)
-- [Telegram](https://t.me/katjarost)
+---
+
+**Open to Remote Junior Frontend positions!** Let’s connect and build something amazing together! 🚀
