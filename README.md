@@ -3,9 +3,9 @@
 
 My goal is to build high-quality, scalable, and user-friendly web applications. I love solving complex architectural challenges, optimizing performance, and continuously expanding my tech stack.
 
-🌐 **My Portfolio:** [https://portfolio-kateryna.vercel.app/]
-💻 **GitHub:** [https://github.com/KaterynaRostovtseva]
-👔 **LinkedIn:** [https://www.linkedin.com/in/kateryna-rostovtseva-123a58171/]
+* 🌐 **My Portfolio:** [https://portfolio-kateryna.vercel.app/]
+* 💻 **GitHub:** [https://github.com/KaterynaRostovtseva]
+* 👔 **LinkedIn:** [https://www.linkedin.com/in/kateryna-rostovtseva-123a58171/]
 
 ---
 
