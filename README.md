@@ -1,7 +1,8 @@
 # Hi! I'm Katya! 👋
-### Junior Frontend Developer | React | Next.js | Angular
-
-My goal is to build high-quality, scalable, and user-friendly web applications. I love solving complex architectural challenges, optimizing performance, and continuously expanding my tech stack.
+### Frontend Developer | Full-stack Developer
+Frontend Engineer with a solid background in building scalable, responsive web applications and e-commerce platforms. Deeply focused on clean code practices, performance optimization, and utilizing Feature-Sliced Design (FSD) architectural methodology to maintain modular and robust codebases.Strongly proficient in advanced state management and efficient data fetching using React, Next.js (SSR/SSG), Redux Toolkit, and RTK Query. Experienced in seamless API integration (REST, Axios) and managing full-cycle software delivery via Git, GitHub Actions, and cloud deployment on Vercel.
+Actively expanding capabilities into Fullstack development, with practical experience in building backend systems using Node.js, Express, and PostgreSQL for relational database design, alongside building dynamic frontends with React Router 7.
+.
 
 * 🌐 **My Portfolio:** [https://portfolio-kateryna.vercel.app/]
 * 💻 **GitHub:** [https://github.com/KaterynaRostovtseva]
@@ -12,6 +13,7 @@ My goal is to build high-quality, scalable, and user-friendly web applications. 
 ### 🔧 Technical Toolkit
 
 * **Frontend & Frameworks:** React, Next.js, React Router, TypeScript, JavaScript (ES6+), HTML5, CSS3
+* **Backend & DB:** Node.js, Express, PostgreSQL, REST API.
 * **Architecture:** Feature-Sliced Design (FSD), Modular Project Structure
 * **State Management & Fetching:** Redux Toolkit, RTK Query
 * **UI & Styling:** Tailwind CSS (v4), Material-UI (MUI), Responsive Web Design
